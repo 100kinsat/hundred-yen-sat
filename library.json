@@ -1,0 +1,11 @@
+{
+  "name": "HundredYenSAT",
+  "version": "0.1.0",
+  "description": "Mission software building blocks for Hundred Yen SAT on Sony Spresense",
+  "keywords": ["spresense", "cansat", "fsm", "gnss", "bno055"],
+  "frameworks": "arduino",
+  "platforms": "sonyspresense",
+  "build": {
+    "includeDir": "src"
+  }
+}
